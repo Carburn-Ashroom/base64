@@ -11,8 +11,8 @@
 
 #### 仓库地址
 [gitee仓库](https://gitee.com/carburn-ashroom/base64.git)
-[github仓库](https://github.com/Carburn-Ashroom/base64.git)
-github仓库是gitee的镜像仓库，**不主动更新**。其唯一的更新方式是gitee的push方向镜像
+<br/>[github仓库](https://github.com/Carburn-Ashroom/base64.git)
+<br/>github仓库是gitee的镜像仓库，**不主动更新**。其唯一的更新方式是gitee的push方向镜像
 
 #### 参与贡献
 （仅更新gitee仓库，**谢绝github**的PR）
